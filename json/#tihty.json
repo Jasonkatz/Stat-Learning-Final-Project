@@ -1,0 +1,3665 @@
+{
+    "809312366932303900": {
+        "created_at": "Thu Dec 15 08:21:19 +0000 2016",
+        "id": 809312366932303900,
+        "id_str": "809312366932303872",
+        "text": "RT @ladygaga: \"Till you're standing in my shoes, I don't wanna hear nothing from u, from u, from u. Cuz you don't know\" -#TIHTY https://t.c…",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "TIHTY",
+                    "indices": [
+                        121,
+                        127
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "ladygaga",
+                    "name": "xoxo, Joanne",
+                    "id": 14230524,
+                    "id_str": "14230524",
+                    "indices": [
+                        3,
+                        12
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2189535732,
+            "id_str": "2189535732",
+            "name": "Jose Nuno",
+            "screen_name": "ThatWhoreJose_",
+            "location": "",
+            "description": "peace, love, and positivity 🌞🌸",
+            "url": "https://t.co/OekuzsAm86",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/OekuzsAm86",
+                            "expanded_url": "http://www.chillwiththenegativity.com",
+                            "display_url": "chillwiththenegativity.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 393,
+            "friends_count": 227,
+            "listed_count": 8,
+            "created_at": "Tue Nov 12 03:39:52 +0000 2013",
+            "favourites_count": 25324,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 15257,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/808505043292819457/9t7xbMAm_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/808505043292819457/9t7xbMAm_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2189535732/1476208937",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Sat Feb 20 10:49:00 +0000 2016",
+            "id": 700995563894911000,
+            "id_str": "700995563894910976",
+            "text": "\"Till you're standing in my shoes, I don't wanna hear nothing from u, from u, from u. Cuz you don't know\" -#TIHTY https://t.co/K6roWWwDgj",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "TIHTY",
+                        "indices": [
+                            107,
+                            113
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 700995560287793200,
+                        "id_str": "700995560287793153",
+                        "indices": [
+                            114,
+                            137
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Cbpvv4AUcAELYnR.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Cbpvv4AUcAELYnR.jpg",
+                        "url": "https://t.co/K6roWWwDgj",
+                        "display_url": "pic.twitter.com/K6roWWwDgj",
+                        "expanded_url": "https://twitter.com/ladygaga/status/700995563894910976/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 1024,
+                                "h": 578,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 384,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1024,
+                                "h": 578,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 700995560287793200,
+                        "id_str": "700995560287793153",
+                        "indices": [
+                            114,
+                            137
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Cbpvv4AUcAELYnR.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Cbpvv4AUcAELYnR.jpg",
+                        "url": "https://t.co/K6roWWwDgj",
+                        "display_url": "pic.twitter.com/K6roWWwDgj",
+                        "expanded_url": "https://twitter.com/ladygaga/status/700995563894910976/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 1024,
+                                "h": 578,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 384,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1024,
+                                "h": 578,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 14230524,
+                "id_str": "14230524",
+                "name": "xoxo, Joanne",
+                "screen_name": "ladygaga",
+                "location": "",
+                "description": "",
+                "url": "https://t.co/XXSaa5ME1r",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/XXSaa5ME1r",
+                                "expanded_url": "http://www.ladygaga.com",
+                                "display_url": "ladygaga.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 64671092,
+                "friends_count": 130283,
+                "listed_count": 229047,
+                "created_at": "Wed Mar 26 22:37:48 +0000 2008",
+                "favourites_count": 1396,
+                "utc_offset": -18000,
+                "time_zone": "Quito",
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 8161,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": true,
+                "profile_background_color": "0A090A",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/514429204939563008/4md0cRjw.png",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/514429204939563008/4md0cRjw.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/809293761159122944/-BwdW70h_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/809293761159122944/-BwdW70h_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/14230524/1481785211",
+                "profile_link_color": "050505",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "DDFFCC",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "regular"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 10764,
+            "favorite_count": 24486,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 10764,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "808755501555220500": {
+        "created_at": "Tue Dec 13 19:28:32 +0000 2016",
+        "id": 808755501555220500,
+        "id_str": "808755501555220480",
+        "text": "Ojalá suceda, y este hombre y otros miles se callen de una puta vez.\n\nDejen de glorificar el abuso sexual 😡… https://t.co/oYhKviVyUj",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/oYhKviVyUj",
+                    "expanded_url": "https://twitter.com/i/web/status/808755501555220480",
+                    "display_url": "twitter.com/i/web/status/8…",
+                    "indices": [
+                        109,
+                        132
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 491009548,
+            "id_str": "491009548",
+            "name": "Mauricio Correa",
+            "screen_name": "iMauricioCorrea",
+            "location": "Hell",
+            "description": "I'd let your dirty sadness fill me up just like a balloon. Proud Ravenclaw. Snap: mauriciodcl",
+            "url": "https://t.co/0iHC7GDtkC",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/0iHC7GDtkC",
+                            "expanded_url": "http://Instagram.com/mauriciodanielcl",
+                            "display_url": "Instagram.com/mauriciodaniel…",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1626,
+            "friends_count": 1543,
+            "listed_count": 16,
+            "created_at": "Mon Feb 13 04:45:15 +0000 2012",
+            "favourites_count": 21184,
+            "utc_offset": -10800,
+            "time_zone": "Buenos Aires",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 21486,
+            "lang": "es",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FF0000",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/438121424637526016/sBY34yD9.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/438121424637526016/sBY34yD9.jpeg",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/808118544802213888/fB8MVSXc_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/808118544802213888/fB8MVSXc_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/491009548/1481417196",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 808750637609611300,
+        "quoted_status_id_str": "808750637609611264",
+        "quoted_status": {
+            "created_at": "Tue Dec 13 19:09:12 +0000 2016",
+            "id": 808750637609611300,
+            "id_str": "808750637609611264",
+            "text": "Lady Gaga agreed to interview with Piers Morgan after questioning her rape claims. They will be up for a debate. 👀 https://t.co/F01Lxhhxxs",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 808749827081310200,
+                        "id_str": "808749827081310210",
+                        "indices": [
+                            115,
+                            138
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/CzlBrstXEAIQcev.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/CzlBrstXEAIQcev.jpg",
+                        "url": "https://t.co/F01Lxhhxxs",
+                        "display_url": "pic.twitter.com/F01Lxhhxxs",
+                        "expanded_url": "https://twitter.com/musicnews_facts/status/808750637609611264/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 680,
+                                "h": 467,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 698,
+                                "h": 479,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 698,
+                                "h": 479,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 808749827081310200,
+                        "id_str": "808749827081310210",
+                        "indices": [
+                            115,
+                            138
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/CzlBrstXEAIQcev.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/CzlBrstXEAIQcev.jpg",
+                        "url": "https://t.co/F01Lxhhxxs",
+                        "display_url": "pic.twitter.com/F01Lxhhxxs",
+                        "expanded_url": "https://twitter.com/musicnews_facts/status/808750637609611264/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 680,
+                                "h": 467,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 698,
+                                "h": 479,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 698,
+                                "h": 479,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 808750479530410000,
+                        "id_str": "808750479530409984",
+                        "indices": [
+                            115,
+                            138
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/CzlCRrRWQAAuq4C.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/CzlCRrRWQAAuq4C.jpg",
+                        "url": "https://t.co/F01Lxhhxxs",
+                        "display_url": "pic.twitter.com/F01Lxhhxxs",
+                        "expanded_url": "https://twitter.com/musicnews_facts/status/808750637609611264/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 680,
+                                "h": 364,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 1200,
+                                "h": 643,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 1270,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 808750491022848000,
+                        "id_str": "808750491022848000",
+                        "indices": [
+                            115,
+                            138
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/CzlCSWFW8AA0pky.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/CzlCSWFW8AA0pky.jpg",
+                        "url": "https://t.co/F01Lxhhxxs",
+                        "display_url": "pic.twitter.com/F01Lxhhxxs",
+                        "expanded_url": "https://twitter.com/musicnews_facts/status/808750637609611264/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 1192,
+                                "h": 502,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 286,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1192,
+                                "h": 502,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 808750508072640500,
+                        "id_str": "808750508072640512",
+                        "indices": [
+                            115,
+                            138
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/CzlCTVmWIAA6MqB.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/CzlCTVmWIAA6MqB.jpg",
+                        "url": "https://t.co/F01Lxhhxxs",
+                        "display_url": "pic.twitter.com/F01Lxhhxxs",
+                        "expanded_url": "https://twitter.com/musicnews_facts/status/808750637609611264/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 820,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 920,
+                                "h": 1346,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 465,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2958642883,
+                "id_str": "2958642883",
+                "name": "Music News & Facts",
+                "screen_name": "musicnews_facts",
+                "location": "Not affiliated with any acc",
+                "description": "The original and ultimate source of music feed. For business/promotion DM or email us at musicnews_facts@outlook.com",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 178059,
+                "friends_count": 0,
+                "listed_count": 812,
+                "created_at": "Sun Jan 04 15:38:26 +0000 2015",
+                "favourites_count": 82,
+                "utc_offset": -28800,
+                "time_zone": "Pacific Time (US & Canada)",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 11016,
+                "lang": "en-gb",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/743536681706364929/X2qPv11V_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/743536681706364929/X2qPv11V_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2958642883/1441156228",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "regular"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 808,
+            "favorite_count": 1819,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "808542181342453800": {
+        "created_at": "Tue Dec 13 05:20:52 +0000 2016",
+        "id": 808542181342453800,
+        "id_str": "808542181342453760",
+        "text": "RT @LbL_Hor: Much love &amp; luck to U!I send hugs, @ladygaga &amp; @Diane_Warren helped me too w/ #TIHTY Hope YOU WIN!You are BRAVE! #PepsiHalftim…",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "TIHTY",
+                    "indices": [
+                        99,
+                        105
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "LbL_Hor",
+                    "name": "FASHun  Easta™💎💖",
+                    "id": 32969033,
+                    "id_str": "32969033",
+                    "indices": [
+                        3,
+                        11
+                    ]
+                },
+                {
+                    "screen_name": "ladygaga",
+                    "name": "xoxo, Joanne",
+                    "id": 14230524,
+                    "id_str": "14230524",
+                    "indices": [
+                        52,
+                        61
+                    ]
+                },
+                {
+                    "screen_name": "Diane_Warren",
+                    "name": "Diane Warren",
+                    "id": 52866770,
+                    "id_str": "52866770",
+                    "indices": [
+                        68,
+                        81
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2183549862,
+            "id_str": "2183549862",
+            "name": "Gina Granata",
+            "screen_name": "ginakatyfan1",
+            "location": "Norwalk , CT",
+            "description": "Fan @LadyGaga @Meghan_Trainor @ddlovato @KatyPerry @FifthHarmony @LittleMix Join my group pages @LMF4D @life_katycats @FamilyMegatronz @LovaticFamily6",
+            "url": "https://t.co/AxW4jLKkqw",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/AxW4jLKkqw",
+                            "expanded_url": "https://www.facebook.com/groups/1625204311035078/",
+                            "display_url": "facebook.com/groups/1625204…",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1434,
+            "friends_count": 4954,
+            "listed_count": 98,
+            "created_at": "Sat Nov 09 04:09:45 +0000 2013",
+            "favourites_count": 38819,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 134768,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/448245387006988289/mCgrJpik.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/448245387006988289/mCgrJpik.jpeg",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/797237437504307200/uR85g4MF_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/797237437504307200/uR85g4MF_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2183549862/1478405940",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Mon Dec 12 20:49:20 +0000 2016",
+            "id": 808413449520746500,
+            "id_str": "808413449520746496",
+            "text": "Much love &amp; luck to U!I send hugs, @ladygaga &amp; @Diane_Warren helped me too w/ #TIHTY Hope YOU WIN!You are BRAVE!… https://t.co/3YLPT1ArFz",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "TIHTY",
+                        "indices": [
+                            86,
+                            92
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "ladygaga",
+                        "name": "xoxo, Joanne",
+                        "id": 14230524,
+                        "id_str": "14230524",
+                        "indices": [
+                            39,
+                            48
+                        ]
+                    },
+                    {
+                        "screen_name": "Diane_Warren",
+                        "name": "Diane Warren",
+                        "id": 52866770,
+                        "id_str": "52866770",
+                        "indices": [
+                            55,
+                            68
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/3YLPT1ArFz",
+                        "expanded_url": "https://twitter.com/i/web/status/808413449520746496",
+                        "display_url": "twitter.com/i/web/status/8…",
+                        "indices": [
+                            122,
+                            145
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 32969033,
+                "id_str": "32969033",
+                "name": "FASHun  Easta™💎💖",
+                "screen_name": "LbL_Hor",
+                "location": "Over The Rainbow, OZ",
+                "description": "Seeker of knowledge, fashion is my passion, have love 4 all humanity @ladygaga @xoBetseyJohnson @BREEDLOVENYC @Chewfu Owner of @BreedloveUSA Official Fan page🤓",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1545,
+                "friends_count": 2461,
+                "listed_count": 95,
+                "created_at": "Sat Apr 18 18:35:16 +0000 2009",
+                "favourites_count": 35018,
+                "utc_offset": -28800,
+                "time_zone": "Pacific Time (US & Canada)",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 47280,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/321841441/fairy_tale.br.jpg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/321841441/fairy_tale.br.jpg",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/804573427008798720/EXgs7qpO_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/804573427008798720/EXgs7qpO_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/32969033/1478125740",
+                "profile_link_color": "8F9AE6",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "0A488A",
+                "profile_text_color": "3DCE2C",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": true,
+            "quoted_status_id": 805831029160374300,
+            "quoted_status_id_str": "805831029160374272",
+            "quoted_status": {
+                "created_at": "Mon Dec 05 17:47:43 +0000 2016",
+                "id": 805831029160374300,
+                "id_str": "805831029160374272",
+                "text": "@pepsi @ladygaga i shared my deepest secret today! Thank you Gaga for inspiring me to be as brave as you… https://t.co/6NkioZBFAs",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "pepsi",
+                            "name": "Pepsi™",
+                            "id": 18139619,
+                            "id_str": "18139619",
+                            "indices": [
+                                0,
+                                6
+                            ]
+                        },
+                        {
+                            "screen_name": "ladygaga",
+                            "name": "xoxo, Joanne",
+                            "id": 14230524,
+                            "id_str": "14230524",
+                            "indices": [
+                                7,
+                                16
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/6NkioZBFAs",
+                            "expanded_url": "https://twitter.com/i/web/status/805831029160374272",
+                            "display_url": "twitter.com/i/web/status/8…",
+                            "indices": [
+                                106,
+                                129
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": 18139619,
+                "in_reply_to_user_id_str": "18139619",
+                "in_reply_to_screen_name": "pepsi",
+                "user": {
+                    "id": 314368608,
+                    "id_str": "314368608",
+                    "name": "marti boe",
+                    "screen_name": "cupcakes_mpls",
+                    "location": "edina,MN",
+                    "description": "",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 473,
+                    "friends_count": 339,
+                    "listed_count": 14,
+                    "created_at": "Fri Jun 10 04:19:41 +0000 2011",
+                    "favourites_count": 12159,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 7786,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/470951942022103040/U2oBRgQ5_normal.jpeg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/470951942022103040/U2oBRgQ5_normal.jpeg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/314368608/1429541141",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 89,
+                "favorite_count": 159,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "retweet_count": 2,
+            "favorite_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": true,
+        "quoted_status_id": 805831029160374300,
+        "quoted_status_id_str": "805831029160374272",
+        "retweet_count": 2,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "808534513450184700": {
+        "created_at": "Tue Dec 13 04:50:24 +0000 2016",
+        "id": 808534513450184700,
+        "id_str": "808534513450184704",
+        "text": "RT @LbL_Hor: Much love &amp; luck to U!I send hugs, @ladygaga &amp; @Diane_Warren helped me too w/ #TIHTY Hope YOU WIN!You are BRAVE! #PepsiHalftim…",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "TIHTY",
+                    "indices": [
+                        99,
+                        105
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "LbL_Hor",
+                    "name": "FASHun  Easta™💎💖",
+                    "id": 32969033,
+                    "id_str": "32969033",
+                    "indices": [
+                        3,
+                        11
+                    ]
+                },
+                {
+                    "screen_name": "ladygaga",
+                    "name": "xoxo, Joanne",
+                    "id": 14230524,
+                    "id_str": "14230524",
+                    "indices": [
+                        52,
+                        61
+                    ]
+                },
+                {
+                    "screen_name": "Diane_Warren",
+                    "name": "Diane Warren",
+                    "id": 52866770,
+                    "id_str": "52866770",
+                    "indices": [
+                        68,
+                        81
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 708744188620312600,
+            "id_str": "708744188620312576",
+            "name": "Monster Family",
+            "screen_name": "LMF4D",
+            "location": "Anybody can join in ",
+            "description": "My FB and Instagram group page for monsters my goal is help monsters with struggles and other issues @ginakatyfan1 https://t.co/CYAcz7lW0h",
+            "url": "https://t.co/AxW4jLKkqw",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/AxW4jLKkqw",
+                            "expanded_url": "https://www.facebook.com/groups/1625204311035078/",
+                            "display_url": "facebook.com/groups/1625204…",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/CYAcz7lW0h",
+                            "expanded_url": "https://www.instagram.com/p/BMNZ-4Ejq2g/",
+                            "display_url": "instagram.com/p/BMNZ-4Ejq2g/",
+                            "indices": [
+                                115,
+                                138
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 1136,
+            "friends_count": 2406,
+            "listed_count": 11,
+            "created_at": "Sat Mar 12 19:59:17 +0000 2016",
+            "favourites_count": 310,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 3889,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/708858878939648002/zn7wwiQe_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/708858878939648002/zn7wwiQe_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/708744188620312576/1457839798",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Mon Dec 12 20:49:20 +0000 2016",
+            "id": 808413449520746500,
+            "id_str": "808413449520746496",
+            "text": "Much love &amp; luck to U!I send hugs, @ladygaga &amp; @Diane_Warren helped me too w/ #TIHTY Hope YOU WIN!You are BRAVE!… https://t.co/3YLPT1ArFz",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "TIHTY",
+                        "indices": [
+                            86,
+                            92
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "ladygaga",
+                        "name": "xoxo, Joanne",
+                        "id": 14230524,
+                        "id_str": "14230524",
+                        "indices": [
+                            39,
+                            48
+                        ]
+                    },
+                    {
+                        "screen_name": "Diane_Warren",
+                        "name": "Diane Warren",
+                        "id": 52866770,
+                        "id_str": "52866770",
+                        "indices": [
+                            55,
+                            68
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/3YLPT1ArFz",
+                        "expanded_url": "https://twitter.com/i/web/status/808413449520746496",
+                        "display_url": "twitter.com/i/web/status/8…",
+                        "indices": [
+                            122,
+                            145
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 32969033,
+                "id_str": "32969033",
+                "name": "FASHun  Easta™💎💖",
+                "screen_name": "LbL_Hor",
+                "location": "Over The Rainbow, OZ",
+                "description": "Seeker of knowledge, fashion is my passion, have love 4 all humanity @ladygaga @xoBetseyJohnson @BREEDLOVENYC @Chewfu Owner of @BreedloveUSA Official Fan page🤓",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1545,
+                "friends_count": 2461,
+                "listed_count": 95,
+                "created_at": "Sat Apr 18 18:35:16 +0000 2009",
+                "favourites_count": 35018,
+                "utc_offset": -28800,
+                "time_zone": "Pacific Time (US & Canada)",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 47280,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/321841441/fairy_tale.br.jpg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/321841441/fairy_tale.br.jpg",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/804573427008798720/EXgs7qpO_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/804573427008798720/EXgs7qpO_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/32969033/1478125740",
+                "profile_link_color": "8F9AE6",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "0A488A",
+                "profile_text_color": "3DCE2C",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": true,
+            "quoted_status_id": 805831029160374300,
+            "quoted_status_id_str": "805831029160374272",
+            "quoted_status": {
+                "created_at": "Mon Dec 05 17:47:43 +0000 2016",
+                "id": 805831029160374300,
+                "id_str": "805831029160374272",
+                "text": "@pepsi @ladygaga i shared my deepest secret today! Thank you Gaga for inspiring me to be as brave as you… https://t.co/6NkioZBFAs",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [
+                        {
+                            "screen_name": "pepsi",
+                            "name": "Pepsi™",
+                            "id": 18139619,
+                            "id_str": "18139619",
+                            "indices": [
+                                0,
+                                6
+                            ]
+                        },
+                        {
+                            "screen_name": "ladygaga",
+                            "name": "xoxo, Joanne",
+                            "id": 14230524,
+                            "id_str": "14230524",
+                            "indices": [
+                                7,
+                                16
+                            ]
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "url": "https://t.co/6NkioZBFAs",
+                            "expanded_url": "https://twitter.com/i/web/status/805831029160374272",
+                            "display_url": "twitter.com/i/web/status/8…",
+                            "indices": [
+                                106,
+                                129
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": 18139619,
+                "in_reply_to_user_id_str": "18139619",
+                "in_reply_to_screen_name": "pepsi",
+                "user": {
+                    "id": 314368608,
+                    "id_str": "314368608",
+                    "name": "marti boe",
+                    "screen_name": "cupcakes_mpls",
+                    "location": "edina,MN",
+                    "description": "",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 473,
+                    "friends_count": 339,
+                    "listed_count": 14,
+                    "created_at": "Fri Jun 10 04:19:41 +0000 2011",
+                    "favourites_count": 12159,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 7786,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/470951942022103040/U2oBRgQ5_normal.jpeg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/470951942022103040/U2oBRgQ5_normal.jpeg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/314368608/1429541141",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 89,
+                "favorite_count": 159,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "retweet_count": 2,
+            "favorite_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": true,
+        "quoted_status_id": 805831029160374300,
+        "quoted_status_id_str": "805831029160374272",
+        "retweet_count": 2,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "808413449520746500": {
+        "created_at": "Mon Dec 12 20:49:20 +0000 2016",
+        "id": 808413449520746500,
+        "id_str": "808413449520746496",
+        "text": "Much love &amp; luck to U!I send hugs, @ladygaga &amp; @Diane_Warren helped me too w/ #TIHTY Hope YOU WIN!You are BRAVE!… https://t.co/3YLPT1ArFz",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "TIHTY",
+                    "indices": [
+                        86,
+                        92
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "ladygaga",
+                    "name": "xoxo, Joanne",
+                    "id": 14230524,
+                    "id_str": "14230524",
+                    "indices": [
+                        39,
+                        48
+                    ]
+                },
+                {
+                    "screen_name": "Diane_Warren",
+                    "name": "Diane Warren",
+                    "id": 52866770,
+                    "id_str": "52866770",
+                    "indices": [
+                        55,
+                        68
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/3YLPT1ArFz",
+                    "expanded_url": "https://twitter.com/i/web/status/808413449520746496",
+                    "display_url": "twitter.com/i/web/status/8…",
+                    "indices": [
+                        122,
+                        145
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 32969033,
+            "id_str": "32969033",
+            "name": "FASHun  Easta™💎💖",
+            "screen_name": "LbL_Hor",
+            "location": "Over The Rainbow, OZ",
+            "description": "Seeker of knowledge, fashion is my passion, have love 4 all humanity @ladygaga @xoBetseyJohnson @BREEDLOVENYC @Chewfu Owner of @BreedloveUSA Official Fan page🤓",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1545,
+            "friends_count": 2461,
+            "listed_count": 95,
+            "created_at": "Sat Apr 18 18:35:16 +0000 2009",
+            "favourites_count": 35018,
+            "utc_offset": -28800,
+            "time_zone": "Pacific Time (US & Canada)",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 47280,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/321841441/fairy_tale.br.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/321841441/fairy_tale.br.jpg",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/804573427008798720/EXgs7qpO_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/804573427008798720/EXgs7qpO_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/32969033/1478125740",
+            "profile_link_color": "8F9AE6",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "0A488A",
+            "profile_text_color": "3DCE2C",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 805831029160374300,
+        "quoted_status_id_str": "805831029160374272",
+        "quoted_status": {
+            "created_at": "Mon Dec 05 17:47:43 +0000 2016",
+            "id": 805831029160374300,
+            "id_str": "805831029160374272",
+            "text": "@pepsi @ladygaga i shared my deepest secret today! Thank you Gaga for inspiring me to be as brave as you… https://t.co/6NkioZBFAs",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "pepsi",
+                        "name": "Pepsi™",
+                        "id": 18139619,
+                        "id_str": "18139619",
+                        "indices": [
+                            0,
+                            6
+                        ]
+                    },
+                    {
+                        "screen_name": "ladygaga",
+                        "name": "xoxo, Joanne",
+                        "id": 14230524,
+                        "id_str": "14230524",
+                        "indices": [
+                            7,
+                            16
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/6NkioZBFAs",
+                        "expanded_url": "https://twitter.com/i/web/status/805831029160374272",
+                        "display_url": "twitter.com/i/web/status/8…",
+                        "indices": [
+                            106,
+                            129
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": 18139619,
+            "in_reply_to_user_id_str": "18139619",
+            "in_reply_to_screen_name": "pepsi",
+            "user": {
+                "id": 314368608,
+                "id_str": "314368608",
+                "name": "marti boe",
+                "screen_name": "cupcakes_mpls",
+                "location": "edina,MN",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 473,
+                "friends_count": 339,
+                "listed_count": 14,
+                "created_at": "Fri Jun 10 04:19:41 +0000 2011",
+                "favourites_count": 12159,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 7786,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/470951942022103040/U2oBRgQ5_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/470951942022103040/U2oBRgQ5_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/314368608/1429541141",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 89,
+            "favorite_count": 159,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "retweet_count": 2,
+        "favorite_count": 1,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "808076239919546400": {
+        "created_at": "Sun Dec 11 22:29:23 +0000 2016",
+        "id": 808076239919546400,
+        "id_str": "808076239919546373",
+        "text": "RT @LuaMeyerok: Esto me hace querer llorar!😢 #TIHTY #Gaga #AnimalRights https://t.co/kGYQK0d1Zc",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "TIHTY",
+                    "indices": [
+                        45,
+                        51
+                    ]
+                },
+                {
+                    "text": "Gaga",
+                    "indices": [
+                        52,
+                        57
+                    ]
+                },
+                {
+                    "text": "AnimalRights",
+                    "indices": [
+                        58,
+                        71
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "LuaMeyerok",
+                    "name": "Lua Meyer✌",
+                    "id": 2308820700,
+                    "id_str": "2308820700",
+                    "indices": [
+                        3,
+                        14
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/kGYQK0d1Zc",
+                    "expanded_url": "https://twitter.com/Diane_Warren/status/808047851183841280",
+                    "display_url": "twitter.com/Diane_Warren/s…",
+                    "indices": [
+                        72,
+                        95
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://roundteam.co\" rel=\"nofollow\">RoundTeam</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 23246523,
+            "id_str": "23246523",
+            "name": "June Stoyer",
+            "screen_name": "JuneStoyer",
+            "location": "NY",
+            "description": "Journalist @TheOrganicView & @CleanEnergyView Globally ranked top1%influencers on #socialmedia! #AnimalRights #bees #veterans #vegan #Catholic #environment",
+            "url": "http://t.co/J6J16AQdWY",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/J6J16AQdWY",
+                            "expanded_url": "http://www.theorganicview.com",
+                            "display_url": "theorganicview.com",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 75607,
+            "friends_count": 41297,
+            "listed_count": 5075,
+            "created_at": "Sat Mar 07 23:09:13 +0000 2009",
+            "favourites_count": 26728,
+            "utc_offset": -18000,
+            "time_zone": "Eastern Time (US & Canada)",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 461967,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "9AE4E8",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623942253594157056/ehPpvmf4.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623942253594157056/ehPpvmf4.jpg",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/795705306114387968/jsxk2Exk_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/795705306114387968/jsxk2Exk_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/23246523/1465478335",
+            "profile_link_color": "981CEB",
+            "profile_sidebar_border_color": "BDDCAD",
+            "profile_sidebar_fill_color": "DDFFCC",
+            "profile_text_color": "E30C1E",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Sun Dec 11 22:27:18 +0000 2016",
+            "id": 808075715040149500,
+            "id_str": "808075715040149504",
+            "text": "Esto me hace querer llorar!😢 #TIHTY #Gaga #AnimalRights https://t.co/kGYQK0d1Zc",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "TIHTY",
+                        "indices": [
+                            29,
+                            35
+                        ]
+                    },
+                    {
+                        "text": "Gaga",
+                        "indices": [
+                            36,
+                            41
+                        ]
+                    },
+                    {
+                        "text": "AnimalRights",
+                        "indices": [
+                            42,
+                            55
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/kGYQK0d1Zc",
+                        "expanded_url": "https://twitter.com/Diane_Warren/status/808047851183841280",
+                        "display_url": "twitter.com/Diane_Warren/s…",
+                        "indices": [
+                            56,
+                            79
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2308820700,
+                "id_str": "2308820700",
+                "name": "Lua Meyer✌",
+                "screen_name": "LuaMeyerok",
+                "location": "VCP Argentina",
+                "description": "little monster/amo la musica la fotografia el volley y los animales!/17/only rock and roll🎸/ the walking dead_ scream queens_AHS\ninsta:LuaMeyer02\nsnap:lua_tone",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1614,
+                "friends_count": 2081,
+                "listed_count": 6,
+                "created_at": "Fri Jan 24 19:03:29 +0000 2014",
+                "favourites_count": 2331,
+                "utc_offset": 7200,
+                "time_zone": "Athens",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 4388,
+                "lang": "es",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/710590528983846912/bK7VBV-s.jpg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/710590528983846912/bK7VBV-s.jpg",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/765162739123777536/a6a1xoyZ_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/765162739123777536/a6a1xoyZ_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2308820700/1471263889",
+                "profile_link_color": "981CEB",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": true,
+            "quoted_status_id": 808047851183841300,
+            "quoted_status_id_str": "808047851183841280",
+            "quoted_status": {
+                "created_at": "Sun Dec 11 20:36:35 +0000 2016",
+                "id": 808047851183841300,
+                "id_str": "808047851183841280",
+                "text": "Proud that Til It Happens To You has found another life as an anthem for Animal rights https://t.co/qtMUt0NpIB",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [],
+                    "media": [
+                        {
+                            "id": 808047682262421500,
+                            "id_str": "808047682262421504",
+                            "indices": [
+                                87,
+                                110
+                            ],
+                            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/808047682262421504/pu/img/KH3gapCuRT1QbcPl.jpg",
+                            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/808047682262421504/pu/img/KH3gapCuRT1QbcPl.jpg",
+                            "url": "https://t.co/qtMUt0NpIB",
+                            "display_url": "pic.twitter.com/qtMUt0NpIB",
+                            "expanded_url": "https://twitter.com/Diane_Warren/status/808047851183841280/video/1",
+                            "type": "photo",
+                            "sizes": {
+                                "small": {
+                                    "w": 340,
+                                    "h": 604,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 720,
+                                    "h": 1280,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 600,
+                                    "h": 1067,
+                                    "resize": "fit"
+                                }
+                            }
+                        }
+                    ]
+                },
+                "extended_entities": {
+                    "media": [
+                        {
+                            "id": 808047682262421500,
+                            "id_str": "808047682262421504",
+                            "indices": [
+                                87,
+                                110
+                            ],
+                            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/808047682262421504/pu/img/KH3gapCuRT1QbcPl.jpg",
+                            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/808047682262421504/pu/img/KH3gapCuRT1QbcPl.jpg",
+                            "url": "https://t.co/qtMUt0NpIB",
+                            "display_url": "pic.twitter.com/qtMUt0NpIB",
+                            "expanded_url": "https://twitter.com/Diane_Warren/status/808047851183841280/video/1",
+                            "type": "video",
+                            "sizes": {
+                                "small": {
+                                    "w": 340,
+                                    "h": 604,
+                                    "resize": "fit"
+                                },
+                                "large": {
+                                    "w": 720,
+                                    "h": 1280,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 600,
+                                    "h": 1067,
+                                    "resize": "fit"
+                                }
+                            },
+                            "video_info": {
+                                "aspect_ratio": [
+                                    9,
+                                    16
+                                ],
+                                "duration_millis": 44872,
+                                "variants": [
+                                    {
+                                        "content_type": "application/x-mpegURL",
+                                        "url": "https://video.twimg.com/ext_tw_video/808047682262421504/pu/pl/ckUUwW9_cWJcK6XU.m3u8"
+                                    },
+                                    {
+                                        "content_type": "application/dash+xml",
+                                        "url": "https://video.twimg.com/ext_tw_video/808047682262421504/pu/pl/ckUUwW9_cWJcK6XU.mpd"
+                                    },
+                                    {
+                                        "bitrate": 2176000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/808047682262421504/pu/vid/720x1280/KvJv35LdQM9LPPVr.mp4"
+                                    },
+                                    {
+                                        "bitrate": 320000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/808047682262421504/pu/vid/180x320/xJTyxIIfgViW1Coh.mp4"
+                                    },
+                                    {
+                                        "bitrate": 832000,
+                                        "content_type": "video/mp4",
+                                        "url": "https://video.twimg.com/ext_tw_video/808047682262421504/pu/vid/360x640/adwpQ52qY_VvVqQ_.mp4"
+                                    }
+                                ]
+                            },
+                            "additional_media_info": {
+                                "monetizable": false
+                            }
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "es",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 52866770,
+                    "id_str": "52866770",
+                    "name": "Diane Warren",
+                    "screen_name": "Diane_Warren",
+                    "location": "",
+                    "description": "Songwriter, bitches",
+                    "url": "http://t.co/9JSGqXUcds",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "http://t.co/9JSGqXUcds",
+                                    "expanded_url": "http://www.realsongs.com/",
+                                    "display_url": "realsongs.com",
+                                    "indices": [
+                                        0,
+                                        22
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 53510,
+                    "friends_count": 243,
+                    "listed_count": 505,
+                    "created_at": "Wed Jul 01 22:03:28 +0000 2009",
+                    "favourites_count": 12103,
+                    "utc_offset": -28800,
+                    "time_zone": "Pacific Time (US & Canada)",
+                    "geo_enabled": false,
+                    "verified": true,
+                    "statuses_count": 15574,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "2B2816",
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/218167011/xfb98acbfeb869feb89bb3aefd778959.jpg",
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/218167011/xfb98acbfeb869feb89bb3aefd778959.jpg",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1268297702/Picture_3_normal.png",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1268297702/Picture_3_normal.png",
+                    "profile_link_color": "55B8FA",
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "profile_sidebar_fill_color": "24210E",
+                    "profile_text_color": "FBFAF7",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 360,
+                "favorite_count": 724,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        "is_quote_status": true,
+        "quoted_status_id": 808047851183841300,
+        "quoted_status_id_str": "808047851183841280",
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "808075715040149500": {
+        "created_at": "Sun Dec 11 22:27:18 +0000 2016",
+        "id": 808075715040149500,
+        "id_str": "808075715040149504",
+        "text": "Esto me hace querer llorar!😢 #TIHTY #Gaga #AnimalRights https://t.co/kGYQK0d1Zc",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "TIHTY",
+                    "indices": [
+                        29,
+                        35
+                    ]
+                },
+                {
+                    "text": "Gaga",
+                    "indices": [
+                        36,
+                        41
+                    ]
+                },
+                {
+                    "text": "AnimalRights",
+                    "indices": [
+                        42,
+                        55
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/kGYQK0d1Zc",
+                    "expanded_url": "https://twitter.com/Diane_Warren/status/808047851183841280",
+                    "display_url": "twitter.com/Diane_Warren/s…",
+                    "indices": [
+                        56,
+                        79
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 2308820700,
+            "id_str": "2308820700",
+            "name": "Lua Meyer✌",
+            "screen_name": "LuaMeyerok",
+            "location": "VCP Argentina",
+            "description": "little monster/amo la musica la fotografia el volley y los animales!/17/only rock and roll🎸/ the walking dead_ scream queens_AHS\ninsta:LuaMeyer02\nsnap:lua_tone",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1614,
+            "friends_count": 2081,
+            "listed_count": 6,
+            "created_at": "Fri Jan 24 19:03:29 +0000 2014",
+            "favourites_count": 2331,
+            "utc_offset": 7200,
+            "time_zone": "Athens",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 4388,
+            "lang": "es",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/710590528983846912/bK7VBV-s.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/710590528983846912/bK7VBV-s.jpg",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/765162739123777536/a6a1xoyZ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/765162739123777536/a6a1xoyZ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/2308820700/1471263889",
+            "profile_link_color": "981CEB",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 808047851183841300,
+        "quoted_status_id_str": "808047851183841280",
+        "quoted_status": {
+            "created_at": "Sun Dec 11 20:36:35 +0000 2016",
+            "id": 808047851183841300,
+            "id_str": "808047851183841280",
+            "text": "Proud that Til It Happens To You has found another life as an anthem for Animal rights https://t.co/qtMUt0NpIB",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 808047682262421500,
+                        "id_str": "808047682262421504",
+                        "indices": [
+                            87,
+                            110
+                        ],
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/808047682262421504/pu/img/KH3gapCuRT1QbcPl.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/808047682262421504/pu/img/KH3gapCuRT1QbcPl.jpg",
+                        "url": "https://t.co/qtMUt0NpIB",
+                        "display_url": "pic.twitter.com/qtMUt0NpIB",
+                        "expanded_url": "https://twitter.com/Diane_Warren/status/808047851183841280/video/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 340,
+                                "h": 604,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 720,
+                                "h": 1280,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 600,
+                                "h": 1067,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 808047682262421500,
+                        "id_str": "808047682262421504",
+                        "indices": [
+                            87,
+                            110
+                        ],
+                        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/808047682262421504/pu/img/KH3gapCuRT1QbcPl.jpg",
+                        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/808047682262421504/pu/img/KH3gapCuRT1QbcPl.jpg",
+                        "url": "https://t.co/qtMUt0NpIB",
+                        "display_url": "pic.twitter.com/qtMUt0NpIB",
+                        "expanded_url": "https://twitter.com/Diane_Warren/status/808047851183841280/video/1",
+                        "type": "video",
+                        "sizes": {
+                            "small": {
+                                "w": 340,
+                                "h": 604,
+                                "resize": "fit"
+                            },
+                            "large": {
+                                "w": 720,
+                                "h": 1280,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 600,
+                                "h": 1067,
+                                "resize": "fit"
+                            }
+                        },
+                        "video_info": {
+                            "aspect_ratio": [
+                                9,
+                                16
+                            ],
+                            "duration_millis": 44872,
+                            "variants": [
+                                {
+                                    "content_type": "application/x-mpegURL",
+                                    "url": "https://video.twimg.com/ext_tw_video/808047682262421504/pu/pl/ckUUwW9_cWJcK6XU.m3u8"
+                                },
+                                {
+                                    "content_type": "application/dash+xml",
+                                    "url": "https://video.twimg.com/ext_tw_video/808047682262421504/pu/pl/ckUUwW9_cWJcK6XU.mpd"
+                                },
+                                {
+                                    "bitrate": 2176000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/808047682262421504/pu/vid/720x1280/KvJv35LdQM9LPPVr.mp4"
+                                },
+                                {
+                                    "bitrate": 320000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/808047682262421504/pu/vid/180x320/xJTyxIIfgViW1Coh.mp4"
+                                },
+                                {
+                                    "bitrate": 832000,
+                                    "content_type": "video/mp4",
+                                    "url": "https://video.twimg.com/ext_tw_video/808047682262421504/pu/vid/360x640/adwpQ52qY_VvVqQ_.mp4"
+                                }
+                            ]
+                        },
+                        "additional_media_info": {
+                            "monetizable": false
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "es",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 52866770,
+                "id_str": "52866770",
+                "name": "Diane Warren",
+                "screen_name": "Diane_Warren",
+                "location": "",
+                "description": "Songwriter, bitches",
+                "url": "http://t.co/9JSGqXUcds",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/9JSGqXUcds",
+                                "expanded_url": "http://www.realsongs.com/",
+                                "display_url": "realsongs.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 53510,
+                "friends_count": 243,
+                "listed_count": 505,
+                "created_at": "Wed Jul 01 22:03:28 +0000 2009",
+                "favourites_count": 12103,
+                "utc_offset": -28800,
+                "time_zone": "Pacific Time (US & Canada)",
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 15574,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "2B2816",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/218167011/xfb98acbfeb869feb89bb3aefd778959.jpg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/218167011/xfb98acbfeb869feb89bb3aefd778959.jpg",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1268297702/Picture_3_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1268297702/Picture_3_normal.png",
+                "profile_link_color": "55B8FA",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "24210E",
+                "profile_text_color": "FBFAF7",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 360,
+            "favorite_count": 724,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    },
+    "807431677433679900": {
+        "created_at": "Sat Dec 10 03:48:07 +0000 2016",
+        "id": 807431677433679900,
+        "id_str": "807431677433679872",
+        "text": "#20MinutesofAction4Change #16daysofactivism #VAW\n#FaceUpToDV #PutTheNailinIt #YesAllWomen #HeForShe #ItsOnUs… https://t.co/6fGA80O2bx",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "20MinutesofAction4Change",
+                    "indices": [
+                        0,
+                        25
+                    ]
+                },
+                {
+                    "text": "16daysofactivism",
+                    "indices": [
+                        26,
+                        43
+                    ]
+                },
+                {
+                    "text": "VAW",
+                    "indices": [
+                        44,
+                        48
+                    ]
+                },
+                {
+                    "text": "FaceUpToDV",
+                    "indices": [
+                        49,
+                        60
+                    ]
+                },
+                {
+                    "text": "PutTheNailinIt",
+                    "indices": [
+                        61,
+                        76
+                    ]
+                },
+                {
+                    "text": "YesAllWomen",
+                    "indices": [
+                        77,
+                        89
+                    ]
+                },
+                {
+                    "text": "HeForShe",
+                    "indices": [
+                        90,
+                        99
+                    ]
+                },
+                {
+                    "text": "ItsOnUs",
+                    "indices": [
+                        100,
+                        108
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/6fGA80O2bx",
+                    "expanded_url": "https://twitter.com/i/web/status/807431677433679872",
+                    "display_url": "twitter.com/i/web/status/8…",
+                    "indices": [
+                        110,
+                        133
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1320141588,
+            "id_str": "1320141588",
+            "name": "Michaela Miles",
+            "screen_name": "_MichaelaMiles",
+            "location": "BNE, QLD, AU",
+            "description": "Wearer of many hats #author #wife #Mum #webmistress #photographer #geek #trekkie #LLAP\nWriter of many things #crime #pnr #romance #erotica #scifi\n#YesAllWomen",
+            "url": "http://t.co/iHBiK8znr3",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/iHBiK8znr3",
+                            "expanded_url": "http://www.amazon.com/author/michaelamiles",
+                            "display_url": "amazon.com/author/michael…",
+                            "indices": [
+                                0,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 72174,
+            "friends_count": 58824,
+            "listed_count": 1011,
+            "created_at": "Mon Apr 01 11:33:34 +0000 2013",
+            "favourites_count": 22263,
+            "utc_offset": 36000,
+            "time_zone": "Brisbane",
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 12378,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F2EDE6",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000154649948/Z7eWK2Av.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000154649948/Z7eWK2Av.jpeg",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/562572679769636864/U543Iic0_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/562572679769636864/U543Iic0_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1320141588/1444091847",
+            "profile_link_color": "DC5848",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "020812",
+            "profile_text_color": "2280A9",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 802218790977204200,
+        "quoted_status_id_str": "802218790977204228",
+        "quoted_status": {
+            "created_at": "Fri Nov 25 18:33:58 +0000 2016",
+            "id": 802218790977204200,
+            "id_str": "802218790977204228",
+            "text": "Today, I encourage all dads to take #20MinutesofAction4Change &amp; talk to your sons about consent, boundaries &amp; respect for women.",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "20MinutesofAction4Change",
+                        "indices": [
+                            36,
+                            61
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "und",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 14260960,
+                "id_str": "14260960",
+                "name": "Justin Trudeau",
+                "screen_name": "JustinTrudeau",
+                "location": "Papineau",
+                "description": "Account run by the 23rd Prime Minister of Canada and staff… Compte géré par le 23e premier ministre du Canada et personnel.",
+                "url": "https://t.co/wbkAcy1QE7",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/wbkAcy1QE7",
+                                "expanded_url": "http://pm.gc.ca",
+                                "display_url": "pm.gc.ca",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 2320279,
+                "friends_count": 950,
+                "listed_count": 8595,
+                "created_at": "Sun Mar 30 21:04:14 +0000 2008",
+                "favourites_count": 63,
+                "utc_offset": -18000,
+                "time_zone": "Eastern Time (US & Canada)",
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 12962,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "DBDCDD",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/538085032842113025/cK69w4mC.png",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/538085032842113025/cK69w4mC.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/797443159198470144/1AwTnliW_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/797443159198470144/1AwTnliW_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/14260960/1480362178",
+                "profile_link_color": "B50000",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "B80B0B",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 17184,
+            "favorite_count": 30982,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "retweet_count": 4,
+        "favorite_count": 12,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "und"
+    },
+    "807056593183379500": {
+        "created_at": "Fri Dec 09 02:57:40 +0000 2016",
+        "id": 807056593183379500,
+        "id_str": "807056593183379456",
+        "text": "@ladygaga May we always give back to you, what you have given us. #strength Many of us know about #ptsd I have it, U helped w/ #tihty ily",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "strength",
+                    "indices": [
+                        66,
+                        75
+                    ]
+                },
+                {
+                    "text": "ptsd",
+                    "indices": [
+                        98,
+                        103
+                    ]
+                },
+                {
+                    "text": "tihty",
+                    "indices": [
+                        127,
+                        133
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "ladygaga",
+                    "name": "xoxo, Joanne",
+                    "id": 14230524,
+                    "id_str": "14230524",
+                    "indices": [
+                        0,
+                        9
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+        "in_reply_to_status_id": 807052854535913500,
+        "in_reply_to_status_id_str": "807052854535913472",
+        "in_reply_to_user_id": 14230524,
+        "in_reply_to_user_id_str": "14230524",
+        "in_reply_to_screen_name": "ladygaga",
+        "user": {
+            "id": 32969033,
+            "id_str": "32969033",
+            "name": "FASHun  Easta™💎💖",
+            "screen_name": "LbL_Hor",
+            "location": "Over The Rainbow, OZ",
+            "description": "Seeker of knowledge, fashion is my passion, have love 4 all humanity @ladygaga @xoBetseyJohnson @BREEDLOVENYC @Chewfu Owner of @BreedloveUSA Official Fan page🤓",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1545,
+            "friends_count": 2461,
+            "listed_count": 95,
+            "created_at": "Sat Apr 18 18:35:16 +0000 2009",
+            "favourites_count": 35018,
+            "utc_offset": -28800,
+            "time_zone": "Pacific Time (US & Canada)",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 47280,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/321841441/fairy_tale.br.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/321841441/fairy_tale.br.jpg",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/804573427008798720/EXgs7qpO_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/804573427008798720/EXgs7qpO_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/32969033/1478125740",
+            "profile_link_color": "8F9AE6",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "0A488A",
+            "profile_text_color": "3DCE2C",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "806844139396399100": {
+        "created_at": "Thu Dec 08 12:53:27 +0000 2016",
+        "id": 806844139396399100,
+        "id_str": "806844139396399108",
+        "text": "RT @LabOfHookers: Today we went back onto the Sydney streets for more #TIHTY promotion with our fanmade posters! Watch below @ladygaga\nhttp…",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "TIHTY",
+                    "indices": [
+                        70,
+                        76
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "LabOfHookers",
+                    "name": "Elena&Anthony | Gaga",
+                    "id": 350263926,
+                    "id_str": "350263926",
+                    "indices": [
+                        3,
+                        16
+                    ]
+                },
+                {
+                    "screen_name": "ladygaga",
+                    "name": "xoxo, Joanne",
+                    "id": 14230524,
+                    "id_str": "14230524",
+                    "indices": [
+                        125,
+                        134
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 350263926,
+            "id_str": "350263926",
+            "name": "Elena&Anthony | Gaga",
+            "screen_name": "LabOfHookers",
+            "location": "Sydney, Australia ",
+            "description": "A 'hooker' is someone hooked to their passion. Admins on Lady Gaga's https://t.co/kuYjSLxQcn",
+            "url": "https://t.co/Sdjvn0HTXK",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/Sdjvn0HTXK",
+                            "expanded_url": "http://littlemonsters.com/labofhookers",
+                            "display_url": "littlemonsters.com/labofhookers",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/kuYjSLxQcn",
+                            "expanded_url": "http://LittleMonsters.com",
+                            "display_url": "LittleMonsters.com",
+                            "indices": [
+                                69,
+                                92
+                            ]
+                        }
+                    ]
+                }
+            },
+            "protected": false,
+            "followers_count": 62289,
+            "friends_count": 1139,
+            "listed_count": 66,
+            "created_at": "Sun Aug 07 13:45:55 +0000 2011",
+            "favourites_count": 23428,
+            "utc_offset": -28800,
+            "time_zone": "Pacific Time (US & Canada)",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 33600,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/513220389585969152/08ZtS302.png",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/513220389585969152/08ZtS302.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/807946038958964736/94iR6PJ1_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/807946038958964736/94iR6PJ1_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/350263926/1476015495",
+            "profile_link_color": "DD2E44",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Sat Mar 12 23:52:09 +0000 2016",
+            "id": 708802795210543100,
+            "id_str": "708802795210543104",
+            "text": "Today we went back onto the Sydney streets for more #TIHTY promotion with our fanmade posters! Watch below @ladygaga\nhttps://t.co/8sVXTKZII1",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "TIHTY",
+                        "indices": [
+                            52,
+                            58
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "ladygaga",
+                        "name": "xoxo, Joanne",
+                        "id": 14230524,
+                        "id_str": "14230524",
+                        "indices": [
+                            107,
+                            116
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/8sVXTKZII1",
+                        "expanded_url": "https://amp.twimg.com/v/82d57a77-8e4e-436b-b1bf-6709aad8a7f1",
+                        "display_url": "amp.twimg.com/v/82d57a77-8e4…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 350263926,
+                "id_str": "350263926",
+                "name": "Elena&Anthony | Gaga",
+                "screen_name": "LabOfHookers",
+                "location": "Sydney, Australia ",
+                "description": "A 'hooker' is someone hooked to their passion. Admins on Lady Gaga's https://t.co/kuYjSLxQcn",
+                "url": "https://t.co/Sdjvn0HTXK",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/Sdjvn0HTXK",
+                                "expanded_url": "http://littlemonsters.com/labofhookers",
+                                "display_url": "littlemonsters.com/labofhookers",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/kuYjSLxQcn",
+                                "expanded_url": "http://LittleMonsters.com",
+                                "display_url": "LittleMonsters.com",
+                                "indices": [
+                                    69,
+                                    92
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 62289,
+                "friends_count": 1139,
+                "listed_count": 66,
+                "created_at": "Sun Aug 07 13:45:55 +0000 2011",
+                "favourites_count": 23428,
+                "utc_offset": -28800,
+                "time_zone": "Pacific Time (US & Canada)",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 33600,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/513220389585969152/08ZtS302.png",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/513220389585969152/08ZtS302.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/807946038958964736/94iR6PJ1_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/807946038958964736/94iR6PJ1_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/350263926/1476015495",
+                "profile_link_color": "DD2E44",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "regular"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 212,
+            "favorite_count": 238,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 212,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "806788286349836300": {
+        "created_at": "Thu Dec 08 09:11:31 +0000 2016",
+        "id": 806788286349836300,
+        "id_str": "806788286349836288",
+        "text": "cuando sigue en campaña junto a Diane Warren y el vicepresidente de Estados Unidos para combatir el abuso, #ItsOnUs #TIHTY",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "ItsOnUs",
+                    "indices": [
+                        107,
+                        115
+                    ]
+                },
+                {
+                    "text": "TIHTY",
+                    "indices": [
+                        116,
+                        122
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 806787099101773800,
+        "in_reply_to_status_id_str": "806787099101773824",
+        "in_reply_to_user_id": 491009548,
+        "in_reply_to_user_id_str": "491009548",
+        "in_reply_to_screen_name": "iMauricioCorrea",
+        "user": {
+            "id": 491009548,
+            "id_str": "491009548",
+            "name": "Mauricio Correa",
+            "screen_name": "iMauricioCorrea",
+            "location": "Hell",
+            "description": "I'd let your dirty sadness fill me up just like a balloon. Proud Ravenclaw. Snap: mauriciodcl",
+            "url": "https://t.co/0iHC7GDtkC",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/0iHC7GDtkC",
+                            "expanded_url": "http://Instagram.com/mauriciodanielcl",
+                            "display_url": "Instagram.com/mauriciodaniel…",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1626,
+            "friends_count": 1543,
+            "listed_count": 16,
+            "created_at": "Mon Feb 13 04:45:15 +0000 2012",
+            "favourites_count": 21184,
+            "utc_offset": -10800,
+            "time_zone": "Buenos Aires",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 21486,
+            "lang": "es",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FF0000",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/438121424637526016/sBY34yD9.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/438121424637526016/sBY34yD9.jpeg",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/808118544802213888/fB8MVSXc_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/808118544802213888/fB8MVSXc_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/491009548/1481417196",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "806787593966751700": {
+        "created_at": "Thu Dec 08 09:08:46 +0000 2016",
+        "id": 806787593966751700,
+        "id_str": "806787593966751744",
+        "text": "cuando donó las ganancias de #TIHTY para combatir el abuso sexual en los Campus estaodunidenses",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "TIHTY",
+                    "indices": [
+                        29,
+                        35
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": 806787099101773800,
+        "in_reply_to_status_id_str": "806787099101773824",
+        "in_reply_to_user_id": 491009548,
+        "in_reply_to_user_id_str": "491009548",
+        "in_reply_to_screen_name": "iMauricioCorrea",
+        "user": {
+            "id": 491009548,
+            "id_str": "491009548",
+            "name": "Mauricio Correa",
+            "screen_name": "iMauricioCorrea",
+            "location": "Hell",
+            "description": "I'd let your dirty sadness fill me up just like a balloon. Proud Ravenclaw. Snap: mauriciodcl",
+            "url": "https://t.co/0iHC7GDtkC",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/0iHC7GDtkC",
+                            "expanded_url": "http://Instagram.com/mauriciodanielcl",
+                            "display_url": "Instagram.com/mauriciodaniel…",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1626,
+            "friends_count": 1543,
+            "listed_count": 16,
+            "created_at": "Mon Feb 13 04:45:15 +0000 2012",
+            "favourites_count": 21184,
+            "utc_offset": -10800,
+            "time_zone": "Buenos Aires",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 21486,
+            "lang": "es",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FF0000",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/438121424637526016/sBY34yD9.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/438121424637526016/sBY34yD9.jpeg",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/808118544802213888/fB8MVSXc_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/808118544802213888/fB8MVSXc_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/491009548/1481417196",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "es"
+    },
+    "806532270815219700": {
+        "created_at": "Wed Dec 07 16:14:12 +0000 2016",
+        "id": 806532270815219700,
+        "id_str": "806532270815219712",
+        "text": "#tihty",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "tihty",
+                    "indices": [
+                        0,
+                        6
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "und",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 343313276,
+            "id_str": "343313276",
+            "name": "Fleurin",
+            "screen_name": "FluffyFleurs",
+            "location": "",
+            "description": "*Inserts something fabulous here* ~Little Monster since 2009 ~ Forever  Stanning @ladygaga",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1472,
+            "friends_count": 1665,
+            "listed_count": 11,
+            "created_at": "Wed Jul 27 11:21:26 +0000 2011",
+            "favourites_count": 15794,
+            "utc_offset": 18000,
+            "time_zone": "Karachi",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 27939,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/623321510850072576/aDQltqIa.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/623321510850072576/aDQltqIa.jpg",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/637345381630676992/l_JNnAFg_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/637345381630676992/l_JNnAFg_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/343313276/1464641340",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "und"
+    },
+    "806314330081939500": {
+        "created_at": "Wed Dec 07 01:48:11 +0000 2016",
+        "id": 806314330081939500,
+        "id_str": "806314330081939456",
+        "text": "RT @CSNMDVSA: #LadyGaga Reveals She Has #PTSD: ‘I Have a Mental Illness’ (Video) https://t.co/rwmQHChta9 #TillItHappensToYou #TIHTY #Chicag…",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "LadyGaga",
+                    "indices": [
+                        14,
+                        23
+                    ]
+                },
+                {
+                    "text": "PTSD",
+                    "indices": [
+                        40,
+                        45
+                    ]
+                },
+                {
+                    "text": "TillItHappensToYou",
+                    "indices": [
+                        105,
+                        124
+                    ]
+                },
+                {
+                    "text": "TIHTY",
+                    "indices": [
+                        125,
+                        131
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "CSNMDVSA",
+                    "name": "Chicago Says No More",
+                    "id": 3187516709,
+                    "id_str": "3187516709",
+                    "indices": [
+                        3,
+                        12
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/rwmQHChta9",
+                    "expanded_url": "http://www.thewrap.com/lady-gaga-ptsd-mental-illness/#.WEcXcLR69vQ.twitter",
+                    "display_url": "thewrap.com/lady-gaga-ptsd…",
+                    "indices": [
+                        81,
+                        104
+                    ]
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 704961592027435000,
+            "id_str": "704961592027435008",
+            "name": "Betsy Boatwright",
+            "screen_name": "alvastarr11",
+            "location": "",
+            "description": "Little Girl Lost,\nBroken Doll ,\nSexual abuse survivor ,\nI will always stand by Hillary. \nHUGS TO HILLARY",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 12,
+            "friends_count": 83,
+            "listed_count": 2,
+            "created_at": "Wed Mar 02 09:28:35 +0000 2016",
+            "favourites_count": 717,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 1026,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/791470258703900673/p-pgQ3kr_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/791470258703900673/p-pgQ3kr_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/704961592027435008/1478682407",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Tue Dec 06 19:55:06 +0000 2016",
+            "id": 806225474104000500,
+            "id_str": "806225474104000513",
+            "text": "#LadyGaga Reveals She Has #PTSD: ‘I Have a Mental Illness’ (Video) https://t.co/rwmQHChta9 #TillItHappensToYou #TIHTY #ChicagoSaysNoMore",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "LadyGaga",
+                        "indices": [
+                            0,
+                            9
+                        ]
+                    },
+                    {
+                        "text": "PTSD",
+                        "indices": [
+                            26,
+                            31
+                        ]
+                    },
+                    {
+                        "text": "TillItHappensToYou",
+                        "indices": [
+                            91,
+                            110
+                        ]
+                    },
+                    {
+                        "text": "TIHTY",
+                        "indices": [
+                            111,
+                            117
+                        ]
+                    },
+                    {
+                        "text": "ChicagoSaysNoMore",
+                        "indices": [
+                            118,
+                            136
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/rwmQHChta9",
+                        "expanded_url": "http://www.thewrap.com/lady-gaga-ptsd-mental-illness/#.WEcXcLR69vQ.twitter",
+                        "display_url": "thewrap.com/lady-gaga-ptsd…",
+                        "indices": [
+                            67,
+                            90
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 3187516709,
+                "id_str": "3187516709",
+                "name": "Chicago Says No More",
+                "screen_name": "CSNMDVSA",
+                "location": "Chicago",
+                "description": "Chicago Says No More addresses domestic violence and sexual assault. Take the pledge and educate yourself about domestic violence and sexual assault.",
+                "url": "http://t.co/Jo56xi1E4H",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/Jo56xi1E4H",
+                                "expanded_url": "http://chicagosaysnomore.org",
+                                "display_url": "chicagosaysnomore.org",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1147,
+                "friends_count": 1174,
+                "listed_count": 53,
+                "created_at": "Mon Apr 20 16:12:46 +0000 2015",
+                "favourites_count": 3749,
+                "utc_offset": -21600,
+                "time_zone": "Central Time (US & Canada)",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 5241,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/590186727144173569/3LcrHe7E_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/590186727144173569/3LcrHe7E_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/3187516709/1429546795",
+                "profile_link_color": "3B94D9",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 2,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    }
+}

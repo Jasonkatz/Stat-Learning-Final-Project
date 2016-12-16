@@ -1,0 +1,1057 @@
+{
+    "808577346085130200": {
+        "created_at": "Tue Dec 13 07:40:36 +0000 2016",
+        "id": 808577346085130200,
+        "id_str": "808577346085130240",
+        "text": "RT @DanCitizen: Best ways to stop #rape https://t.co/ROikkLDNm1\n#StanfordRapist via @jaliackson",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "rape",
+                    "indices": [
+                        34,
+                        39
+                    ]
+                },
+                {
+                    "text": "StanfordRapist",
+                    "indices": [
+                        64,
+                        79
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "DanCitizen",
+                    "name": "DanCitizen",
+                    "id": 124776946,
+                    "id_str": "124776946",
+                    "indices": [
+                        3,
+                        14
+                    ]
+                },
+                {
+                    "screen_name": "jaliackson",
+                    "name": "Geordie Al",
+                    "id": 232808640,
+                    "id_str": "232808640",
+                    "indices": [
+                        84,
+                        95
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 740947318460055600,
+                    "id_str": "740947318460055552",
+                    "indices": [
+                        40,
+                        63
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CkhfqRIXAAAt1BC.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CkhfqRIXAAAt1BC.jpg",
+                    "url": "https://t.co/ROikkLDNm1",
+                    "display_url": "pic.twitter.com/ROikkLDNm1",
+                    "expanded_url": "https://twitter.com/jaliackson/status/740947325317722112/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 400,
+                            "h": 470,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 400,
+                            "h": 470,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 400,
+                            "h": 470,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 740947325317722100,
+                    "source_status_id_str": "740947325317722112",
+                    "source_user_id": 232808640,
+                    "source_user_id_str": "232808640"
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 740947318460055600,
+                    "id_str": "740947318460055552",
+                    "indices": [
+                        40,
+                        63
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/CkhfqRIXAAAt1BC.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CkhfqRIXAAAt1BC.jpg",
+                    "url": "https://t.co/ROikkLDNm1",
+                    "display_url": "pic.twitter.com/ROikkLDNm1",
+                    "expanded_url": "https://twitter.com/jaliackson/status/740947325317722112/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 400,
+                            "h": 470,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "large": {
+                            "w": 400,
+                            "h": 470,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 400,
+                            "h": 470,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 740947325317722100,
+                    "source_status_id_str": "740947325317722112",
+                    "source_user_id": 232808640,
+                    "source_user_id_str": "232808640"
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 22238323,
+            "id_str": "22238323",
+            "name": "🎄mobiledada🎄",
+            "screen_name": "karudden",
+            "location": "portland oregon",
+            "description": "Header photos halfway between Portland and Bend, Oregon, USA. All photos by me, @karudden unless retweets, also @MourningGeckos",
+            "url": "https://t.co/7SzhH9Jbht",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/7SzhH9Jbht",
+                            "expanded_url": "https://twitter.com/search?q=From%3Akarudden&s=09",
+                            "display_url": "twitter.com/search?q=From%…",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 587,
+            "friends_count": 343,
+            "listed_count": 103,
+            "created_at": "Sat Feb 28 07:36:50 +0000 2009",
+            "favourites_count": 30763,
+            "utc_offset": -28800,
+            "time_zone": "Pacific Time (US & Canada)",
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 21121,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C6E2EE",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/643490754522939392/7ecW-FX4_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/643490754522939392/7ecW-FX4_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/22238323/1442255126",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu Jun 09 16:49:33 +0000 2016",
+            "id": 740948963340193800,
+            "id_str": "740948963340193792",
+            "text": "Best ways to stop #rape https://t.co/ROikkLDNm1\n#StanfordRapist via @jaliackson",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "rape",
+                        "indices": [
+                            18,
+                            23
+                        ]
+                    },
+                    {
+                        "text": "StanfordRapist",
+                        "indices": [
+                            48,
+                            63
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "jaliackson",
+                        "name": "Geordie Al",
+                        "id": 232808640,
+                        "id_str": "232808640",
+                        "indices": [
+                            68,
+                            79
+                        ]
+                    }
+                ],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 740947318460055600,
+                        "id_str": "740947318460055552",
+                        "indices": [
+                            24,
+                            47
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/CkhfqRIXAAAt1BC.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/CkhfqRIXAAAt1BC.jpg",
+                        "url": "https://t.co/ROikkLDNm1",
+                        "display_url": "pic.twitter.com/ROikkLDNm1",
+                        "expanded_url": "https://twitter.com/jaliackson/status/740947325317722112/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 400,
+                                "h": 470,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 400,
+                                "h": 470,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 400,
+                                "h": 470,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 740947325317722100,
+                        "source_status_id_str": "740947325317722112",
+                        "source_user_id": 232808640,
+                        "source_user_id_str": "232808640"
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 740947318460055600,
+                        "id_str": "740947318460055552",
+                        "indices": [
+                            24,
+                            47
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/CkhfqRIXAAAt1BC.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/CkhfqRIXAAAt1BC.jpg",
+                        "url": "https://t.co/ROikkLDNm1",
+                        "display_url": "pic.twitter.com/ROikkLDNm1",
+                        "expanded_url": "https://twitter.com/jaliackson/status/740947325317722112/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 400,
+                                "h": 470,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 400,
+                                "h": 470,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 400,
+                                "h": 470,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 740947325317722100,
+                        "source_status_id_str": "740947325317722112",
+                        "source_user_id": 232808640,
+                        "source_user_id_str": "232808640"
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 740947325317722100,
+            "in_reply_to_status_id_str": "740947325317722112",
+            "in_reply_to_user_id": 232808640,
+            "in_reply_to_user_id_str": "232808640",
+            "in_reply_to_screen_name": "jaliackson",
+            "user": {
+                "id": 124776946,
+                "id_str": "124776946",
+                "name": "DanCitizen",
+                "screen_name": "DanCitizen",
+                "location": "United States",
+                "description": "Father of three boys that wants to leave them a wonderful, beautiful world (and virtual reality doesn't count)",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 16620,
+                "friends_count": 13446,
+                "listed_count": 443,
+                "created_at": "Sat Mar 20 14:38:30 +0000 2010",
+                "favourites_count": 9403,
+                "utc_offset": -14400,
+                "time_zone": "Atlantic Time (Canada)",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 16269,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000169884586/hH4tiEBQ.jpeg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000169884586/hH4tiEBQ.jpeg",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/733083924344229888/2UI2nX-5_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/733083924344229888/2UI2nX-5_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/124776946/1431524503",
+                "profile_link_color": "212212",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "C0DFEC",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 8,
+            "favorite_count": 5,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 8,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "808577284651163600": {
+        "created_at": "Tue Dec 13 07:40:21 +0000 2016",
+        "id": 808577284651163600,
+        "id_str": "808577284651163649",
+        "text": "RT @DanCitizen: A tale of 2 rapists: Brock Turner got 6 months; Cory Batey faces 15 to 25 years. Why the difference?\n#StanfordRapist https:…",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "StanfordRapist",
+                    "indices": [
+                        117,
+                        132
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "DanCitizen",
+                    "name": "DanCitizen",
+                    "id": 124776946,
+                    "id_str": "124776946",
+                    "indices": [
+                        3,
+                        14
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 22238323,
+            "id_str": "22238323",
+            "name": "🎄mobiledada🎄",
+            "screen_name": "karudden",
+            "location": "portland oregon",
+            "description": "Header photos halfway between Portland and Bend, Oregon, USA. All photos by me, @karudden unless retweets, also @MourningGeckos",
+            "url": "https://t.co/7SzhH9Jbht",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/7SzhH9Jbht",
+                            "expanded_url": "https://twitter.com/search?q=From%3Akarudden&s=09",
+                            "display_url": "twitter.com/search?q=From%…",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 587,
+            "friends_count": 343,
+            "listed_count": 103,
+            "created_at": "Sat Feb 28 07:36:50 +0000 2009",
+            "favourites_count": 30763,
+            "utc_offset": -28800,
+            "time_zone": "Pacific Time (US & Canada)",
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 21121,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C6E2EE",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/643490754522939392/7ecW-FX4_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/643490754522939392/7ecW-FX4_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/22238323/1442255126",
+            "profile_link_color": "ABB8C2",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu Jun 09 21:17:21 +0000 2016",
+            "id": 741016355135184900,
+            "id_str": "741016355135184896",
+            "text": "A tale of 2 rapists: Brock Turner got 6 months; Cory Batey faces 15 to 25 years. Why the difference?\n#StanfordRapist https://t.co/q8Yp9EYmWc",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "StanfordRapist",
+                        "indices": [
+                            101,
+                            116
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 741016345819549700,
+                        "id_str": "741016345819549696",
+                        "indices": [
+                            117,
+                            140
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/CkiecMFVEAAescy.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/CkiecMFVEAAescy.jpg",
+                        "url": "https://t.co/q8Yp9EYmWc",
+                        "display_url": "pic.twitter.com/q8Yp9EYmWc",
+                        "expanded_url": "https://twitter.com/DanCitizen/status/741016355135184896/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 680,
+                                "h": 388,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1024,
+                                "h": 584,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1024,
+                                "h": 584,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 741016345819549700,
+                        "id_str": "741016345819549696",
+                        "indices": [
+                            117,
+                            140
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/CkiecMFVEAAescy.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/CkiecMFVEAAescy.jpg",
+                        "url": "https://t.co/q8Yp9EYmWc",
+                        "display_url": "pic.twitter.com/q8Yp9EYmWc",
+                        "expanded_url": "https://twitter.com/DanCitizen/status/741016355135184896/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "small": {
+                                "w": 680,
+                                "h": 388,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 1024,
+                                "h": 584,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 1024,
+                                "h": 584,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 124776946,
+                "id_str": "124776946",
+                "name": "DanCitizen",
+                "screen_name": "DanCitizen",
+                "location": "United States",
+                "description": "Father of three boys that wants to leave them a wonderful, beautiful world (and virtual reality doesn't count)",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 16620,
+                "friends_count": 13446,
+                "listed_count": 443,
+                "created_at": "Sat Mar 20 14:38:30 +0000 2010",
+                "favourites_count": 9403,
+                "utc_offset": -14400,
+                "time_zone": "Atlantic Time (Canada)",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 16269,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000169884586/hH4tiEBQ.jpeg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000169884586/hH4tiEBQ.jpeg",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/733083924344229888/2UI2nX-5_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/733083924344229888/2UI2nX-5_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/124776946/1431524503",
+                "profile_link_color": "212212",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "C0DFEC",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": {
+                "id": "1d9a5370a355ab0c",
+                "url": "https://api.twitter.com/1.1/geo/id/1d9a5370a355ab0c.json",
+                "place_type": "city",
+                "name": "Chicago",
+                "full_name": "Chicago, IL",
+                "country_code": "US",
+                "country": "United States",
+                "contained_within": [],
+                "bounding_box": {
+                    "type": "Polygon",
+                    "coordinates": [
+                        [
+                            [
+                                -87.940033,
+                                41.644102
+                            ],
+                            [
+                                -87.523993,
+                                41.644102
+                            ],
+                            [
+                                -87.523993,
+                                42.0230669
+                            ],
+                            [
+                                -87.940033,
+                                42.0230669
+                            ]
+                        ]
+                    ]
+                },
+                "attributes": {}
+            },
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 81,
+            "favorite_count": 41,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 81,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "806674817709731800": {
+        "created_at": "Thu Dec 08 01:40:38 +0000 2016",
+        "id": 806674817709731800,
+        "id_str": "806674817709731840",
+        "text": "Biggest lesson of 2016: My country HATES women. #stanfordrapist #doublestandardsforHillary #pussygrabberforpresident #Ohio…",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "stanfordrapist",
+                    "indices": [
+                        48,
+                        63
+                    ]
+                },
+                {
+                    "text": "doublestandardsforHillary",
+                    "indices": [
+                        64,
+                        90
+                    ]
+                },
+                {
+                    "text": "pussygrabberforpresident",
+                    "indices": [
+                        91,
+                        116
+                    ]
+                },
+                {
+                    "text": "Ohio",
+                    "indices": [
+                        117,
+                        122
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1321964874,
+            "id_str": "1321964874",
+            "name": "Anne Dixon-Wise",
+            "screen_name": "AnneDixonWise",
+            "location": "Boston",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 47,
+            "friends_count": 72,
+            "listed_count": 5,
+            "created_at": "Tue Apr 02 07:43:59 +0000 2013",
+            "favourites_count": 437,
+            "utc_offset": -18000,
+            "time_zone": "Eastern Time (US & Canada)",
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 227,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/714243688197701632/4BcMv653_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/714243688197701632/4BcMv653_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1321964874/1475368211",
+            "profile_link_color": "91D2FA",
+            "profile_sidebar_border_color": "181A1E",
+            "profile_sidebar_fill_color": "252429",
+            "profile_text_color": "666666",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "806662371888406500": {
+        "created_at": "Thu Dec 08 00:51:11 +0000 2016",
+        "id": 806662371888406500,
+        "id_str": "806662371888406528",
+        "text": "RT @pgoodwin4: Hear a heartbreaking victim statement like #StanfordRapist case - no - no one spoke on 12 year olds behalf @VP    https://t.…",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "StanfordRapist",
+                    "indices": [
+                        58,
+                        73
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "pgoodwin4",
+                    "name": "paula218",
+                    "id": 120325881,
+                    "id_str": "120325881",
+                    "indices": [
+                        3,
+                        13
+                    ]
+                },
+                {
+                    "screen_name": "VP",
+                    "name": "Vice President Biden",
+                    "id": 325830217,
+                    "id_str": "325830217",
+                    "indices": [
+                        122,
+                        125
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 330799343,
+            "id_str": "330799343",
+            "name": "Carole Bressette",
+            "screen_name": "CBressette",
+            "location": "San Diego California",
+            "description": "Peace & Justice Unite Us ~ \nEducation & Enjoyment ~ \nLoving Life Daily",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2259,
+            "friends_count": 1989,
+            "listed_count": 262,
+            "created_at": "Thu Jul 07 05:11:23 +0000 2011",
+            "favourites_count": 98365,
+            "utc_offset": -28800,
+            "time_zone": "Pacific Time (US & Canada)",
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 52764,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "49CC19",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/821551468/a53d4d70a790afa4b2e0d99ee843dfc7.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/821551468/a53d4d70a790afa4b2e0d99ee843dfc7.jpeg",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000647504231/af175adc1c4a1d2388bce55052320e5a_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000647504231/af175adc1c4a1d2388bce55052320e5a_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/330799343/1363992528",
+            "profile_link_color": "1E4D1C",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "070ABA",
+            "profile_text_color": "EB6369",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Thu Oct 20 16:35:49 +0000 2016",
+            "id": 789143092393672700,
+            "id_str": "789143092393672705",
+            "text": "Hear a heartbreaking victim statement like #StanfordRapist case - no - no one spoke on 12 year olds behalf @VP    https://t.co/iBHBrseo88",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "StanfordRapist",
+                        "indices": [
+                            43,
+                            58
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "VP",
+                        "name": "Vice President Biden",
+                        "id": 325830217,
+                        "id_str": "325830217",
+                        "indices": [
+                            107,
+                            110
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/iBHBrseo88",
+                        "expanded_url": "https://www.washingtonpost.com/news/morning-mix/wp/2016/10/19/father-who-repeatedly-raped-his-12-year-old-daughter-gets-60-day-sentence-fury-erupts/?ref=yfp",
+                        "display_url": "washingtonpost.com/news/morning-m…",
+                        "indices": [
+                            114,
+                            137
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 120325881,
+                "id_str": "120325881",
+                "name": "paula218",
+                "screen_name": "pgoodwin4",
+                "location": "",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 61,
+                "friends_count": 291,
+                "listed_count": 14,
+                "created_at": "Sat Mar 06 03:33:34 +0000 2010",
+                "favourites_count": 1631,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 623,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/740205089931952128/HSdM3ah__normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/740205089931952128/HSdM3ah__normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 1,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    }
+}
