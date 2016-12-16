@@ -1,6 +1,8 @@
 import nltk
 import string
 import os
+import csv
+import sys
 
 from sklearn.feature_extraction.text import TfidfVectorizer
 from nltk.stem.porter import PorterStemmer
@@ -36,8 +38,13 @@ print 'Performing TF-IDF vectorization'
 tfidf = TfidfVectorizer(tokenizer = tokenize, stop_words = 'english')
 tfs = tfidf.fit_transform(token_dict.values())
 
-# Print data
+datalist = []
 feature_names = tfidf.get_feature_names()
-print len(feature_names)
-#for col in tfs.nonzero()[1]:
-#    print feature_names[col], ' - ', tfs[0, col]
+for col in tfs.nonzero()[1]:
+    datalist.append([feature_names[col], tfs[0, col]])
+
+# Print data to csv
+csvfile = open('tfidf/' + sys.argv[1] + '.csv', 'wb')
+wr = csv.writer(csvfile);
+wr.writerow(datalist)
+wr.close();
