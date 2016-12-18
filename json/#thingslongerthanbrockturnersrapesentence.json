@@ -1,0 +1,1035 @@
+{
+    "810005118343069700": {
+        "created_at": "Sat Dec 17 06:14:04 +0000 2016",
+        "id": 810005118343069700,
+        "id_str": "810005118343069696",
+        "text": "#ThingsLongerThanBrockTurnersRapeSentence  This hastag.",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "ThingsLongerThanBrockTurnersRapeSentence",
+                    "indices": [
+                        0,
+                        41
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 72356014,
+            "id_str": "72356014",
+            "name": "Finn",
+            "screen_name": "Finnsux",
+            "location": "Portland, OR",
+            "description": "Óraunverulegur",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1790,
+            "friends_count": 884,
+            "listed_count": 4,
+            "created_at": "Mon Sep 07 19:07:16 +0000 2009",
+            "favourites_count": 7366,
+            "utc_offset": -18000,
+            "time_zone": "Quito",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 12916,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/807972783409926144/YcghD6wg_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/807972783409926144/YcghD6wg_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/72356014/1480310138",
+            "profile_link_color": "89C9FA",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 3,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "809246132769583100": {
+        "created_at": "Thu Dec 15 03:58:07 +0000 2016",
+        "id": 809246132769583100,
+        "id_str": "809246132769583104",
+        "text": "RT @_Emily_Kerkhof_: #ThingsLongerThanBrockTurnersRapeSentence my dads neck https://t.co/pK308wkPmk",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "ThingsLongerThanBrockTurnersRapeSentence",
+                    "indices": [
+                        21,
+                        62
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "_Emily_Kerkhof_",
+                    "name": "Em ☃️",
+                    "id": 1340692867,
+                    "id_str": "1340692867",
+                    "indices": [
+                        3,
+                        19
+                    ]
+                }
+            ],
+            "urls": [],
+            "media": [
+                {
+                    "id": 774430308653334500,
+                    "id_str": "774430308653334529",
+                    "indices": [
+                        76,
+                        99
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/Cr9UQzqUAAEhD8f.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/Cr9UQzqUAAEhD8f.jpg",
+                    "url": "https://t.co/pK308wkPmk",
+                    "display_url": "pic.twitter.com/pK308wkPmk",
+                    "expanded_url": "https://twitter.com/_Emily_Kerkhof_/status/774430316777738240/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 750,
+                            "h": 1334,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 675,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 382,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 774430316777738200,
+                    "source_status_id_str": "774430316777738240",
+                    "source_user_id": 1340692867,
+                    "source_user_id_str": "1340692867"
+                }
+            ]
+        },
+        "extended_entities": {
+            "media": [
+                {
+                    "id": 774430308653334500,
+                    "id_str": "774430308653334529",
+                    "indices": [
+                        76,
+                        99
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/Cr9UQzqUAAEhD8f.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/Cr9UQzqUAAEhD8f.jpg",
+                    "url": "https://t.co/pK308wkPmk",
+                    "display_url": "pic.twitter.com/pK308wkPmk",
+                    "expanded_url": "https://twitter.com/_Emily_Kerkhof_/status/774430316777738240/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 750,
+                            "h": 1334,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 675,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 382,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 774430316777738200,
+                    "source_status_id_str": "774430316777738240",
+                    "source_user_id": 1340692867,
+                    "source_user_id_str": "1340692867"
+                },
+                {
+                    "id": 774430310444306400,
+                    "id_str": "774430310444306432",
+                    "indices": [
+                        76,
+                        99
+                    ],
+                    "media_url": "http://pbs.twimg.com/media/Cr9UQ6VUEAAxd9h.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/Cr9UQ6VUEAAxd9h.jpg",
+                    "url": "https://t.co/pK308wkPmk",
+                    "display_url": "pic.twitter.com/pK308wkPmk",
+                    "expanded_url": "https://twitter.com/_Emily_Kerkhof_/status/774430316777738240/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 750,
+                            "h": 1334,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 675,
+                            "h": 1200,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 382,
+                            "h": 680,
+                            "resize": "fit"
+                        }
+                    },
+                    "source_status_id": 774430316777738200,
+                    "source_status_id_str": "774430316777738240",
+                    "source_user_id": 1340692867,
+                    "source_user_id_str": "1340692867"
+                }
+            ]
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1340692867,
+            "id_str": "1340692867",
+            "name": "Em ☃️",
+            "screen_name": "_Emily_Kerkhof_",
+            "location": "1/6",
+            "description": "I solemnly swear that I am up to no good",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 766,
+            "friends_count": 585,
+            "listed_count": 1,
+            "created_at": "Wed Apr 10 01:11:41 +0000 2013",
+            "favourites_count": 7005,
+            "utc_offset": -18000,
+            "time_zone": "Eastern Time (US & Canada)",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 8752,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/802721663284637697/xz7Q3UCW_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/802721663284637697/xz7Q3UCW_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1340692867/1480218809",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Sat Sep 10 02:12:30 +0000 2016",
+            "id": 774430316777738200,
+            "id_str": "774430316777738240",
+            "text": "#ThingsLongerThanBrockTurnersRapeSentence my dads neck https://t.co/pK308wkPmk",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "ThingsLongerThanBrockTurnersRapeSentence",
+                        "indices": [
+                            0,
+                            41
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [],
+                "media": [
+                    {
+                        "id": 774430308653334500,
+                        "id_str": "774430308653334529",
+                        "indices": [
+                            55,
+                            78
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Cr9UQzqUAAEhD8f.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Cr9UQzqUAAEhD8f.jpg",
+                        "url": "https://t.co/pK308wkPmk",
+                        "display_url": "pic.twitter.com/pK308wkPmk",
+                        "expanded_url": "https://twitter.com/_Emily_Kerkhof_/status/774430316777738240/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 750,
+                                "h": 1334,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 675,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 382,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "extended_entities": {
+                "media": [
+                    {
+                        "id": 774430308653334500,
+                        "id_str": "774430308653334529",
+                        "indices": [
+                            55,
+                            78
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Cr9UQzqUAAEhD8f.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Cr9UQzqUAAEhD8f.jpg",
+                        "url": "https://t.co/pK308wkPmk",
+                        "display_url": "pic.twitter.com/pK308wkPmk",
+                        "expanded_url": "https://twitter.com/_Emily_Kerkhof_/status/774430316777738240/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 750,
+                                "h": 1334,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 675,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 382,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    },
+                    {
+                        "id": 774430310444306400,
+                        "id_str": "774430310444306432",
+                        "indices": [
+                            55,
+                            78
+                        ],
+                        "media_url": "http://pbs.twimg.com/media/Cr9UQ6VUEAAxd9h.jpg",
+                        "media_url_https": "https://pbs.twimg.com/media/Cr9UQ6VUEAAxd9h.jpg",
+                        "url": "https://t.co/pK308wkPmk",
+                        "display_url": "pic.twitter.com/pK308wkPmk",
+                        "expanded_url": "https://twitter.com/_Emily_Kerkhof_/status/774430316777738240/photo/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 750,
+                                "h": 1334,
+                                "resize": "fit"
+                            },
+                            "medium": {
+                                "w": 675,
+                                "h": 1200,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "small": {
+                                "w": 382,
+                                "h": 680,
+                                "resize": "fit"
+                            }
+                        }
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1340692867,
+                "id_str": "1340692867",
+                "name": "Em ☃️",
+                "screen_name": "_Emily_Kerkhof_",
+                "location": "1/6",
+                "description": "I solemnly swear that I am up to no good",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 766,
+                "friends_count": 585,
+                "listed_count": 1,
+                "created_at": "Wed Apr 10 01:11:41 +0000 2013",
+                "favourites_count": 7005,
+                "utc_offset": -18000,
+                "time_zone": "Eastern Time (US & Canada)",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 8752,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/802721663284637697/xz7Q3UCW_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/802721663284637697/xz7Q3UCW_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1340692867/1480218809",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 3,
+            "favorite_count": 27,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    "808629115951706100": {
+        "created_at": "Tue Dec 13 11:06:19 +0000 2016",
+        "id": 808629115951706100,
+        "id_str": "808629115951706112",
+        "text": "RT @lynllbacani: #ThingsLongerThanBrockTurnersRapeSentence @KylieJenner's snapchat stories",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "ThingsLongerThanBrockTurnersRapeSentence",
+                    "indices": [
+                        17,
+                        58
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "lynllbacani",
+                    "name": "leyn",
+                    "id": 387063825,
+                    "id_str": "387063825",
+                    "indices": [
+                        3,
+                        15
+                    ]
+                },
+                {
+                    "screen_name": "KylieJenner",
+                    "name": "Kylie Jenner",
+                    "id": 236699098,
+                    "id_str": "236699098",
+                    "indices": [
+                        59,
+                        71
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 805694298566103000,
+            "id_str": "805694298566103040",
+            "name": "Elizabeth Dyer",
+            "screen_name": "Vi_ctoriaPiper",
+            "location": "",
+            "description": "",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 6,
+            "friends_count": 68,
+            "listed_count": 2,
+            "created_at": "Mon Dec 05 08:44:24 +0000 2016",
+            "favourites_count": 273,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 433,
+            "lang": "ru",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/806298545452093440/gY1EHATf_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/806298545452093440/gY1EHATf_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Fri Sep 09 01:34:16 +0000 2016",
+            "id": 774058306591723500,
+            "id_str": "774058306591723520",
+            "text": "#ThingsLongerThanBrockTurnersRapeSentence @KylieJenner's snapchat stories",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "ThingsLongerThanBrockTurnersRapeSentence",
+                        "indices": [
+                            0,
+                            41
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "KylieJenner",
+                        "name": "Kylie Jenner",
+                        "id": 236699098,
+                        "id_str": "236699098",
+                        "indices": [
+                            42,
+                            54
+                        ]
+                    }
+                ],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 387063825,
+                "id_str": "387063825",
+                "name": "leyn",
+                "screen_name": "lynllbacani",
+                "location": "289",
+                "description": "",
+                "url": "https://t.co/XXVc5yqDS0",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/XXVc5yqDS0",
+                                "expanded_url": "http://lynllbacani.tumblr.com",
+                                "display_url": "lynllbacani.tumblr.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 895,
+                "friends_count": 503,
+                "listed_count": 3,
+                "created_at": "Sat Oct 08 12:02:57 +0000 2011",
+                "favourites_count": 44923,
+                "utc_offset": 28800,
+                "time_zone": "Hong Kong",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 43168,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/442242029263654912/KFKHUWsc.jpeg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/442242029263654912/KFKHUWsc.jpeg",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/809768599778983936/P8m2XKIH_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/809768599778983936/P8m2XKIH_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/387063825/1481755347",
+                "profile_link_color": "E81C4F",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "FFFFFF",
+                "profile_text_color": "000000",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 130,
+            "favorite_count": 345,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 130,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "808366529049817100": {
+        "created_at": "Mon Dec 12 17:42:53 +0000 2016",
+        "id": 808366529049817100,
+        "id_str": "808366529049817088",
+        "text": "RT @jenstar1011: Mr.Cleans hair\n#ThingsLongerThanBrockTurnersRapeSentence",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "ThingsLongerThanBrockTurnersRapeSentence",
+                    "indices": [
+                        32,
+                        73
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "jenstar1011",
+                    "name": "Jennifer",
+                    "id": 1030946274,
+                    "id_str": "1030946274",
+                    "indices": [
+                        3,
+                        15
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1613523504,
+            "id_str": "1613523504",
+            "name": "Geo the weenie",
+            "screen_name": "weeniehutloser",
+            "location": "gay island",
+            "description": "Pop punk af, sometimes i make memes",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 104,
+            "friends_count": 110,
+            "listed_count": 0,
+            "created_at": "Mon Jul 22 20:00:21 +0000 2013",
+            "favourites_count": 940,
+            "utc_offset": -21600,
+            "time_zone": "Central Time (US & Canada)",
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 444,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "1A1B1F",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/484183415168569345/ZQEH_9w7.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/484183415168569345/ZQEH_9w7.jpeg",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/803105888252760064/KSbrwd5a_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/803105888252760064/KSbrwd5a_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1613523504/1479695218",
+            "profile_link_color": "FFD1DC",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Fri Sep 09 16:39:01 +0000 2016",
+            "id": 774285993721692200,
+            "id_str": "774285993721692160",
+            "text": "Mr.Cleans hair\n#ThingsLongerThanBrockTurnersRapeSentence",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "ThingsLongerThanBrockTurnersRapeSentence",
+                        "indices": [
+                            15,
+                            56
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1030946274,
+                "id_str": "1030946274",
+                "name": "Jennifer",
+                "screen_name": "jenstar1011",
+                "location": "",
+                "description": "I am incredibly awkward 200% of the time.",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 67,
+                "friends_count": 173,
+                "listed_count": 1,
+                "created_at": "Sun Dec 23 17:08:07 +0000 2012",
+                "favourites_count": 4034,
+                "utc_offset": -28800,
+                "time_zone": "Pacific Time (US & Canada)",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 855,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/783136107311534080/1IUNC5Vg_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/783136107311534080/1IUNC5Vg_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1030946274/1478118429",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 3,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    "807736192099696600": {
+        "created_at": "Sat Dec 10 23:58:09 +0000 2016",
+        "id": 807736192099696600,
+        "id_str": "807736192099696640",
+        "text": "A shift working retail in December- #thingslongerthanBrockTurnersrapesentence",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "thingslongerthanBrockTurnersrapesentence",
+                    "indices": [
+                        36,
+                        77
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 718625997332025300,
+            "id_str": "718625997332025344",
+            "name": "Elizabeth Brandon",
+            "screen_name": "Wildlife_Wizard",
+            "location": "San Antonio, TX",
+            "description": "Lover of animals, writing, and adventure. Texas born and raised. Pieces of my heart left in Wyoming, South Africa, Bolivia and more. To travel is to live",
+            "url": "https://t.co/BC8jvumIGd",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/BC8jvumIGd",
+                            "expanded_url": "http://wildlifewizard.blogspot.com",
+                            "display_url": "wildlifewizard.blogspot.com",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 24,
+            "friends_count": 44,
+            "listed_count": 1,
+            "created_at": "Sat Apr 09 02:26:03 +0000 2016",
+            "favourites_count": 1770,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 42,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5F8FA",
+            "profile_background_image_url": null,
+            "profile_background_image_url_https": null,
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/803305315953426434/9XcXI0KQ_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/803305315953426434/9XcXI0KQ_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/718625997332025344/1480357854",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false,
+            "translator_type": "none"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    }
+}
