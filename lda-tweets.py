@@ -35,11 +35,11 @@ from sklearn.manifold import TSNE
 
 stemming = True
 minlength = 3
-stopword_file = 'lda_code/stoplist.txt'
+stopword_file = 'stoplist.txt'
 
 n_features = 100
 n_topics = 3
-n_top_words = 5
+n_top_words = 10
 
 
 # # Helper Functions
@@ -140,110 +140,3 @@ lda_topics = top_words(lda, tf_feature_names, 3)
 # In[35]:
 
 print lda_topics
-
-
-# ### TSNE Feature Reduction (for scatter-plot)
-
-# In[38]:
-
-topic_hist = []
-for row in doc_topic:
-    topic_hist.append(row.argmax())
-
-print sum(topic_hist) / float(len(topic_hist))
-    
-min_hist = []
-for row in doc_topic:
-    min_hist.append(row.argmin())
-    
-print sum(min_hist) / float(len(min_hist))
-    
-fig = plt.figure()
-fig.clf()
-
-plt.hist(topic_hist, bins=range(0, n_topics+1))
-plt.show()
-
-fig = plt.figure()
-fig.clf()
-
-plt.hist(min_hist, bins=range(0, n_topics+1))
-plt.show()
-
-from collections import defaultdict
-
-topic_bins = defaultdict(int)
-for b in topic_hist:
-    topic_bins[b] += 1 
-topic_bins
-
-
-# In[2]:
-
-import matplotlib.cm as cmx
-import matplotlib
-from mpl_toolkits.mplot3d import Axes3D
-def scatter3d(x,y,z, cs, colorsMap='jet'):
-    cm = plt.get_cmap(colorsMap)
-    cNorm = matplotlib.colors.Normalize(vmin=min(cs), vmax=max(cs))
-    scalarMap = cmx.ScalarMappable(norm=cNorm, cmap=cm)
-    fig = plt.figure()
-    ax = Axes3D(fig)
-    ax.scatter(x, y, z, c=scalarMap.to_rgba(cs))
-    scalarMap.set_array(cs)
-    fig.colorbar(scalarMap)
-    plt.show()
-
-
-# In[17]:
-
-tsne = TSNE(n_components=2, random_state=1)
-X_tsne = tsne.fit_transform(doc_topic)
-
-
-# In[18]:
-
-color = [doc.argmax() for doc in doc_topic]
-# scatter3d(X_tsne[:,0], X_tsne[:,1], X_tsne[:,2], color)
-
-
-# In[21]:
-
-fig = plt.figure(1, figsize=(10,10), dpi=150)
-fig.clf()
-frame = plt.scatter(X_tsne[:,0], X_tsne[:,1], c=color, cmap=plt.get_cmap('Set1'), edgecolor='', s=50)
-frame.axes.get_xaxis().set_visible(False)
-frame.axes.get_yaxis().set_visible(False)
-plt.show()
-
-
-# In[ ]:
-
-tsne = TSNE(n_components=2, random_state=10)
-X_tsne = tsne.fit_transform(doc_topic)
-
-color = [doc.argmax() for doc in doc_topic]
-
-plt.figure(1, figsize=(10,10), dpi=100)
-plt.scatter(X_tsne[:,0], X_tsne[:,1], c=color)
-# fig.c
-plt.show()
-
-
-# In[27]:
-
-import sklearn.cluster as cluster
-
-def plot_clusters(data, algorithm, args, kwds):
-    labels = algorithm(*args, **kwds).fit_predict(data)
-    fig = plt.figure(1, figsize=(10,10), dpi=150)
-    fig.clf()
-    plt.scatter(data.T[0], data.T[1], c=labels, cmap=plt.get_cmap('Paired'), edgecolor='', s=50)
-    frame = plt.gca()
-    frame.axes.get_xaxis().set_visible(False)
-    frame.axes.get_yaxis().set_visible(False)
-    plt.show()
-
-import hdbscan
-plot_clusters(X_tsne, hdbscan.HDBSCAN, (), {'min_cluster_size':30})
-
