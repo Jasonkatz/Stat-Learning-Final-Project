@@ -30,6 +30,7 @@ always
 am
 among
 amongst
+amp
 an
 and
 announce
@@ -54,6 +55,7 @@ as
 aside
 ask
 asking
+askingforit
 at
 auth
 available
@@ -133,8 +135,10 @@ eighty
 either
 else
 elsewhere
+emilydoe
 end
 ending
+endrapeculture
 enough
 especially
 et
@@ -216,6 +220,8 @@ how
 howbeit
 however
 hundred
+http
+https
 i
 id
 ie
@@ -270,6 +276,7 @@ like
 liked
 likely
 line
+listentosurvivors
 little
 'll
 look
@@ -282,6 +289,7 @@ mainly
 make
 makes
 many
+masculinitysofragile
 may
 maybe
 me
@@ -336,6 +344,7 @@ normally
 nos
 not
 noted
+notokay
 nothing
 now
 nowhere
@@ -405,6 +414,8 @@ quite
 qv
 r
 ran
+rapeculture
+rapecultureiswhen
 rather
 rd
 re
@@ -447,6 +458,7 @@ selves
 sent
 seven
 several
+sexualviolence
 shall
 she
 shed
@@ -483,6 +495,7 @@ specifically
 specified
 specify
 specifying
+stanfordrapist
 still
 stop
 strongly
@@ -510,6 +523,7 @@ that'll
 thats
 that've
 the
+thehuntingground
 their
 theirs
 them
@@ -535,6 +549,7 @@ theyd
 they'll
 theyre
 they've
+thingslongerthanbrockturnersrapesentence
 think
 this
 those
@@ -547,7 +562,9 @@ through
 throughout
 thru
 thus
+tihty
 til
+tilithappenstoyou
 tip
 to
 together
@@ -601,6 +618,7 @@ was
 wasnt
 way
 we
+webelieveyou
 wed
 welcome
 we'll
@@ -679,4 +697,6 @@ bpm
 patient
 reason
 study
+whyistayed
+whywomendontreport
 year
